@@ -1,5 +1,5 @@
 ```markdown
-#Python Chess Game with Pygame
+Python Chess Game with Pygame
 
 A simple chess game built using Python and Pygame. This project implements the core functionality of chess, including piece movements and turn-based gameplay, with a graphical user interface (GUI).
 
@@ -13,6 +13,7 @@ A simple chess game built using Python and Pygame. This project implements the c
 - Easy-to-use interface for selecting and moving pieces.
 
  Screenshots
+![image](https://github.com/user-attachments/assets/886f00ab-dd73-4f12-bf93-e9d080adeec1)
 
 
  Getting Started
