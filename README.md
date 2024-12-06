@@ -1,9 +1,9 @@
 ```markdown
-# Python Chess Game with Pygame
+#Python Chess Game with Pygame
 
 A simple chess game built using Python and Pygame. This project implements the core functionality of chess, including piece movements and turn-based gameplay, with a graphical user interface (GUI).
 
-## Features
+ Features
 - Fully playable chess game with GUI.
 - Turn-based gameplay for two players.
 - Basic rules implemented:
@@ -12,17 +12,17 @@ A simple chess game built using Python and Pygame. This project implements the c
 - Visual highlights for the board and chess pieces.
 - Easy-to-use interface for selecting and moving pieces.
 
-## Screenshots
-*(Add screenshots of the game interface here once available, showing the board setup, piece movement, etc.)*
+ Screenshots
 
-## Getting Started
 
-### Prerequisites
+ Getting Started
+
+ Prerequisites
 - Python 3.8 or newer installed.
 - Pygame library installed.
-
-### Installation
-1. **Clone the repository:**
+```
+ Installation
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/chess-game.git
    cd chess-game
@@ -35,7 +35,7 @@ A simple chess game built using Python and Pygame. This project implements the c
 
 3. **Ensure the `images/` folder contains all the required chess piece images:**
    - `white_pawn.png`, `black_pawn.png`, etc.
-   - Download recommended images from [Chessboard.js PNGs](https://github.com/davidbau/chessboardjs/tree/master/img/chesspieces/wikipedia).
+   - Download recommended images
 
 4. **Run the game:**
    ```bash
