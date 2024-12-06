@@ -1,5 +1,3 @@
-Here’s an updated version of the `README.md` file with GitHub text features (like headings, lists, etc.) and the names of the creators, **Fadi Abbara** and **Anas Zahran**:
-
 ```markdown
 # Python Chess Game with Pygame
 
